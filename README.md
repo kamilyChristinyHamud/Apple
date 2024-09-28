@@ -6,7 +6,7 @@ Portifólio de Criação Kamily Hamud.
 
 [link do meu repositório] (https://github.com/kamilyChristinyHamud/Apple/blob/main/README.md#projeto-apple)
 
-# vídeo do sobretudo postado no Google Drive.
+# Vídeo do sobretudo postado no Google Drive.
 
 [Clique aqui para vizualizar o vídeo da criação e costura do sobretudo] (https://drive.google.com/file/d/1y1Obug-U_OIBV5802tiR6nWXMF5JaTYy/view?usp=drive_link) 
 
