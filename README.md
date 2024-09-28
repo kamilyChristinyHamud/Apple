@@ -1,6 +1,6 @@
 # Projeto Apple
 Nesse repositório contém os arquivos necessários para a inscrição do processo seletivo da Apple Developer Academy PUCPR.
-Portifólio de Criação Kamily Hamud.
+Coleção de Criações Kamily Hamud.
 
 # Aqui está o link do meu repositório no GitHub.
 
@@ -14,8 +14,8 @@ Portifólio de Criação Kamily Hamud.
 
 [Clique no link para acessar ao Cinekamikaze] (https://www.instagram.com/cinekamikaze/)
 
-# Para acessar o Portfólio de Criações. 
+# Para acessar a Coleção de Criações. 
 
-[Clique no link para acessar ao Portfólio de Criações]
-(https://github.com/kamilyChristinyHamud/Apple/blob/282a10ac2e81dbdd5be1021056da6a959294b787/Portf%C3%B3lio%20de%20Cria%C3%A7%C3%B5es.pdf)
+[Clique no link para acessar Coleção de Criações]
+
 
