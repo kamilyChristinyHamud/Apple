@@ -3,7 +3,7 @@ Nesse repositório contém os arquivos necessários para a inscrição do proces
 Coleção de Criações Kamily Hamud.
 
 # Acesso ao meu vídeo de inscrição.
-[Clique nesse link para vizualizar] (https://drive.google.com/file/d/1PTDJVFmLjuJafn6TDIOROuM-YRD6Kdme/view?usp=sharing)
+[Clique nesse link para vizualizar] (
 
 # Aqui está o link do meu repositório no GitHub.
 [link do meu repositório] (https://github.com/kamilyChristinyHamud/Apple/blob/main/README.md#projeto-apple)
