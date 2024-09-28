@@ -1,6 +1,6 @@
 # Projeto Apple
 Nesse repositório contém os arquivos necessários para a inscrição do processo seletivo da Apple Developer Academy PUCPR.
-Portifólio de Criação Kamily Hamud
+Portifólio de Criação Kamily Hamud.
 
 # Aqui está o link do meu repositório no GitHub.
 
