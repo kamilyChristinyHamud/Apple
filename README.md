@@ -1,9 +1,9 @@
-# Projeto Apple
+# Coleção de Criações Apple
 Nesse repositório contém os arquivos necessários para a inscrição do processo seletivo da Apple Developer Academy PUCPR.
 Coleção de Criações Kamily Hamud.
 
 # Acesso ao meu vídeo de inscrição.
-[Clique nesse link para vizualizar] (
+[Clique nesse link para vizualizar] (https://drive.google.com/file/d/1HA-Wa-s1GK-ruGlMC1gvBWZbfZ2WMSSq/view?usp=sharing)
 
 # Aqui está o link do meu repositório no GitHub.
 [link do meu repositório] (https://github.com/kamilyChristinyHamud/Apple/blob/main/README.md#projeto-apple)
