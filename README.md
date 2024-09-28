@@ -2,7 +2,7 @@
 Nesse repositório contém os arquivos necessários para a inscrição do processo seletivo da Apple Developer Academy PUCPR.
 Coleção de Criações Kamily Hamud.
 
-# # Acesso ao meu vídeo de inscrição.
+# Acesso ao meu vídeo de inscrição.
 [Clique nesse link para vizualizar] (https://drive.google.com/file/d/1PTDJVFmLjuJafn6TDIOROuM-YRD6Kdme/view?usp=sharing)
 
 # Aqui está o link do meu repositório no GitHub.
